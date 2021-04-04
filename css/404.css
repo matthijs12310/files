@@ -1,0 +1,12 @@
+html { 
+    background: url(/images/bg404.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.text{
+    font-family: 'New Tegomin', serif;
+    color: white;
+    text-align: center;
+}
